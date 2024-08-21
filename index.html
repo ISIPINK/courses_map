@@ -1,1 +1,44 @@
-<h1> hello world</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.0/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.0/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.0/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"Levy Processes","children":[{"content":"Prohorov’s theorem","children":[{"content":"recall","children":[{"content":"kapstok stelling","children":[],"payload":{"lines":"5,6"}},{"content":"Continuous mapping theorem","children":[],"payload":{"lines":"7,8"}},{"content":"Slutzky","children":[],"payload":{"lines":"9,10"}},{"content":"Characteristic functions","children":[{"content":"karaterisatie stelling","children":[],"payload":{"lines":"13,14"}},{"content":"convergence and weak convergence","children":[],"payload":{"lines":"15,16"}}],"payload":{"lines":"11,12"}},{"content":"Cramer-Wold","children":[],"payload":{"lines":"17,18"}},{"content":"def tight","children":[],"payload":{"lines":"19,20"}}],"payload":{"lines":"3,4"}},{"content":"sequential compactness =&gt; tight","children":[{"content":"polish space","children":[{"content":"open, gesloten rep maat","children":[],"payload":{"lines":"25,26"}},{"content":"compacte rep maat","children":[],"payload":{"lines":"27,28"}}],"payload":{"lines":"23,24"}}],"payload":{"lines":"21,22"}},{"content":"sequential compactness &lt;= tight","children":[{"content":"ondermaat en boven maat stuff","children":[],"payload":{"lines":"31,32"}}],"payload":{"lines":"29,30"}},{"content":"new characteristic functions","children":[{"content":"weak convergence =&gt; uniform convergence on compact sets","children":[],"payload":{"lines":"35,36"}},{"content":"convergence to continous in 0 =&gt; weak convergence","children":[],"payload":{"lines":"37,38"}}],"payload":{"lines":"33,34"}}],"payload":{"lines":"1,2"}},{"content":"Infinitely divisible distributions","children":[{"content":"basic properties","children":[{"content":"non zero phi","children":[],"payload":{"lines":"43,44"}},{"content":"form of phi","children":[],"payload":{"lines":"45,46"}},{"content":"preservation under weak convergence","children":[],"payload":{"lines":"47,48"}}],"payload":{"lines":"41,42"}},{"content":"compound poisson","children":[],"payload":{"lines":"49,50"}},{"content":"Levy-Khintchine formula/representation","children":[{"content":"uniqueness","children":[],"payload":{"lines":"53,54"}},{"content":"2.3 weak convergence and convergence of generating triple","children":[],"payload":{"lines":"55,56"}}],"payload":{"lines":"51,52"}}],"payload":{"lines":"39,40"}},{"content":"Levy processes: existence","children":[{"content":"def levy process","children":[],"payload":{"lines":"59,60"}},{"content":"def compound poisson process","children":[],"payload":{"lines":"61,62"}},{"content":"Poisson random measures","children":[{"content":"construction example","children":[],"payload":{"lines":"65,66"}},{"content":"poisson measure integration","children":[],"payload":{"lines":"67,68"}}],"payload":{"lines":"63,64"}},{"content":"D([0, t], Rd) Skorokhod space (cadlag)","children":[{"content":"ball sigma algebra","children":[],"payload":{"lines":"71,72"}},{"content":"max sum epsilon &lt;=","children":[],"payload":{"lines":"73,74"}},{"content":"Kolmogorov (just rvs)","children":[{"content":"levy processes","children":[],"payload":{"lines":"77,78"}}],"payload":{"lines":"75,76"}}],"payload":{"lines":"69,70"}},{"content":"The Levy-Ito decomposition","children":[{"content":"properties poisson random measures","children":[],"payload":{"lines":"81,82"}},{"content":"A = 0 and γ = 0","children":[{"content":"construction random measures","children":[],"payload":{"lines":"85,86"}},{"content":"convergence of infty activity part","children":[],"payload":{"lines":"87,88"}}],"payload":{"lines":"83,84"}}],"payload":{"lines":"79,80"}},{"content":"atomic sets","children":[],"payload":{"lines":"89,90"}}],"payload":{"lines":"57,58"}}]},{"colorFreezeLevel":2})</script>
+</body>
+</html>
