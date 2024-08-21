@@ -36,389 +36,389 @@ markmap:
 
 ## SE1
 
-### kanstheorie en statistiek
+### Kanstheorie en Statistiek
 
-#### kansruimten
+#### Kansruimten
 
-##### voorwaardelijke kans
+##### Voorwaardelijke Kans
 
-##### onafhankelijkheid
+##### Onafhankelijkheid
 
-#### momenten van stochastische veranderlijke
+#### Momenten van Stochastische Veranderlijke
 
-##### kentallen
+##### Kentallen
 
-###### gemiddelde
+###### Gemiddelde
 
-###### mediaan
+###### Mediaan
 
-###### modus
+###### Modus
 
-###### variantie
+###### Variantie
 
-###### interkartiel
+###### Interkartiel
 
 ###### MAD
 
-###### variantie breedte
+###### Variantie Breedte
 
-###### variantie coef
+###### Variantie Coëfficiënt
 
-###### scheefheid
+###### Scheefheid
 
-##### momentgenererende functie
+##### Momentgenererende Functie
 
-##### karakteristiek functie
+##### Karakteristieke Functie
 
-#### belangerijke verdelingen
+#### Belangrijke Verdelingen
 
-##### discreet
+##### Discreet
 
-###### discrete uniforme verdeling
+###### Discrete Uniforme Verdeling
 
-###### Bernoulli verdeling
+###### Bernoulli Verdeling
 
 ###### Binomiaalverdeling
 
-###### Geometrische verdeling
+###### Geometrische Verdeling
 
-###### Negatief binomiaalverdeling
+###### Negatief Binomiaalverdeling
 
-###### Hypergeometrische verdeling
+###### Hypergeometrische Verdeling
 
 ###### Poissonverdeling
 
-##### continu
+##### Continu
 
-###### Continue uniforme verdeling
+###### Continue Uniforme Verdeling
 
-###### Exponentiële verdeling
+###### Exponentiële Verdeling
 
-###### Univariate normale verdeling
+###### Univariate Normale Verdeling
 
 ###### Gammaverdeling
 
-###### t n verdeling
+###### t n Verdeling
 
-###### Cauchy verdeling
+###### Cauchy Verdeling
 
 ###### Fisher-verdeling
 
-###### Lognormale verdeling
+###### Lognormale Verdeling
 
 ###### Betaverdeling (niet in slides)
 
-###### Dubbele exponentiële verdeling (niet in slides)
+###### Dubbele Exponentiële Verdeling (niet in slides)
 
-#### transformatie van stochstische veranderlijke
+#### Transformatie van Stochastische Veranderlijke
 
-##### Monotone transformatie
+##### Monotone Transformatie
 
 ##### Integraaltransformatie
 
-##### Genereren van stochastische veranderlijken
+##### Genereren van Stochastische Veranderlijken
 
-#### stochastische vectoren
+#### Stochastische Vectoren
 
-##### Transformaties van stochastische vectoren
+##### Transformaties van Stochastische Vectoren
 
-##### De multinomiale verdeling
+##### De Multinomiale Verdeling
 
-##### Bivariate normale verdeling
+##### Bivariate Normale Verdeling
 
-##### De multivariate normale verdeling
+##### De Multivariate Normale Verdeling
 
-#### convergenties en limietstellingen
+#### Convergenties en Limietstellingen
 
-##### centrale limiet stelling
+##### Centrale Limiet Stelling
 
-##### zwakke/sterke wet van grote aantallen
+##### Zwakke/Sterke Wet van Grote Aantallen
 
 ##### Theorema van Slutsky
 
-##### Continuı̈teitsstelling van Lévy-Cramér
+##### Continuïteitsstelling van Lévy-Cramér
 
-##### soorten convergenties
+##### Soorten Convergenties
 
-###### bijna zeker
+###### Bijna Zeker
 
-###### in kans
+###### In Kans
 
-###### r de norm
+###### r de Norm
 
-###### in verdeling
+###### In Verdeling
 
-##### ongelijkheden
+##### Ongelijkheden
 
-###### ongelijkheid van Chebyshev
+###### Ongelijkheid van Chebyshev
 
-###### ongelijkheid van Jensen
+###### Ongelijkheid van Jensen
 
-###### ongelijkheid voor gemiddelden
+###### Ongelijkheid voor Gemiddelden
 
-- rekenkundig
+- Rekenkundig
 
-- geometrisch
+- Geometrisch
 
-- harmonisch
+- Harmonisch
 
-###### grenzen voor het eerste moment
+###### Grenzen voor het Eerste Moment
 
-#### beschrijvende statistiek
+#### Beschrijvende Statistiek
 
-### ringen en modulen
+### Ringen en Modulen
 
-#### posets
+#### Posets
 
-##### lemma zorn
+##### Lemma Zorn
 
-#### ringen en idealen
+#### Ringen en Idealen
 
-##### R-algebra
+##### R-Algebra
 
-##### universele eigenschap van idealen
+##### Universele Eigenschap van Idealen
 
-#### priem idealen en maximale idealen
+#### Priem Idealen en Maximale Idealen
 
-##### krull
+##### Krull
 
-##### hilbertsbasis stelling
+##### Hilbertsbasis Stelling
 
-##### chinese rest stelling
+##### Chinese Rest Stelling
 
-##### connectie noethers en atreens
+##### Connectie Noethers en Atreens
 
-#### modulen
+#### Modulen
 
-##### coproduct
+##### Coproduct
 
-##### universele eigenschap quotient modulen
+##### Universele Eigenschap Quotient Modulen
 
-#### excate rijen
+#### Exacte Rijen
 
-##### detectie eigenschap (5.6)
+##### Detectie Eigenschap (5.6)
 
-##### baer criterium
+##### Baer Criterium
 
-##### criteruim projectief
+##### Criterium Projectief
 
-##### diagram chasing
+##### Diagram Chasing
 
-##### 5.23 noetherheid in exacte rijen
+##### 5.23 Noetherheid in Exacte Rijen
 
-#### tensor product
+#### Tensor Product
 
-### maattheorie
+### Maattheorie
 
-#### meetbare ruimten
+#### Meetbare Ruimten
 
-##### algebra
+##### Algebra
 
-##### ring
+##### Ring
 
-##### dynkin systeem
+##### Dynkin Systeem
 
-##### monotone klasse
+##### Monotone Klasse
 
-#### maatruimte
+#### Maatruimte
 
-##### maat
+##### Maat
 
-##### equivalentie stelling
+##### Equivalentie Stelling
 
 ##### Theorema van Carathéodory
 
-###### voorbereindende lemma's (geen bewijzen)
+###### Voorbereidende Lemma's (geen bewijzen)
 
-##### borrel canteli
+##### Borrel Canteli
 
-#### borelstam lebesgue maat
+#### Borel-Stam Lebesgue Maat
 
-##### semi algebra
+##### Semi Algebra
 
-##### lebesgue maat
+##### Lebesgue Maat
 
-#### meetbare en elementaire afbeeldingen
+#### Meetbare en Elementaire Afbeeldingen
 
-##### meetbare afbeelding
+##### Meetbare Afbeelding
 
-##### defineerdheid van reele afbeeldingen
+##### Gedefinieerdheid van Reële Afbeeldingen
 
-##### benaderen met elementaire functies
+##### Benaderen met Elementaire Functies
 
-#### lebesgue integraal
+#### Lebesgue Integraal
 
-##### def lebesgue integraal
+##### Definitie Lebesgue Integraal
 
-##### beppo levi
+##### Beppo Levi
 
-##### lema van fatou
+##### Lemma van Fatou
 
-##### gedomineerde convergentie stelling
+##### Gedomineerde Convergentie Stelling
 
-#### L P ruimten
+#### L P Ruimten
 
-##### ongelijkheid van hölder
+##### Ongelijkheid van Hölder
 
-##### driehoeksongelijkheid van Minkowski
+##### Driehoeksongelijkheid van Minkowski
 
-##### lyapunov
+##### Lyapunov
 
-#### convergentie stellingen
+#### Convergentie Stellingen
 
-##### convergentie in maat
+##### Convergentie in Maat
 
-##### egoroff (geen bewijs)
+##### Egoroff (geen bewijs)
 
-##### gedomineerde convergentie van stelling in maat
+##### Gedomineerde Convergentie Stelling in Maat
 
-#### gelijkmatig integreerbaarheid (niet te kennen)
+#### Gelijkmatig Integreerbaarheid (niet te kennen)
 
-##### p-integreerbaarheid
+##### p-Integreerbaarheid
 
-##### gedomineerde convergentie stelling voor p - int
+##### Gedomineerde Convergentie Stelling voor p-Integreerbaarheid
 
-##### scheffé
+##### Scheffé
 
 ##### 7.8.9
 
-#### radon nikodym afgeleide (geen bewijzen)
+#### Radon-Nikodym Afgeleide (geen bewijzen)
 
-##### getekende maat
+##### Getekende Maat
 
-##### decompositie van hahn
+##### Decompositie van Hahn
 
-##### radon nikodym afgeleide (uniciteit)
+##### Radon-Nikodym Afgeleide (uniciteit)
 
-#### produkt maten (geen bewijzen)
+#### Produktmaten (geen bewijzen)
 
 ##### Tonelli
 
-##### Fubini-tonelli
+##### Fubini-Tonelli
 
-##### sectie
+##### Sectie
 
-#### convoluties van maten (niet te kennen)
+#### Convoluties van Maten (niet te kennen)
 
-### codetheorie
+### Codetheorie
 
-#### codetheorie
+#### Codetheorie
 
-##### linaire codes
+##### Lineaire Codes
 
-##### perfecte codes
+##### Perfecte Codes
 
-###### repetion codes
+###### Repetition Codes
 
-###### hamming codes
+###### Hamming Codes
 
-###### ternary golay codes
+###### Ternary Golay Codes
 
-###### binary golay codes
+###### Binary Golay Codes
 
-###### fundamental theorem
+###### Fundamental Theorem
 
-##### cyklische codes
+##### Cyclische Codes
 
-###### BHC codes
+###### BCH Codes
 
-- def
+- Def
 
-- werking
+- Werking
 
-- decoding
+- Decoding
 
-###### reed solomon codes
+###### Reed-Solomon Codes
 
-- def
+- Def
 
-- berlekamps algoritme
+- Berlekamps Algoritme
 
-#### cryptografie
+#### Cryptografie
 
-##### basis methode
+##### Basis Methode
 
-###### subsitutie
+###### Substitutie
 
-- monoalfabetisch
+- Monoalfabetisch
 
-  - caesarsub
+  - Caesarsub
 
-  - Arbach cipher
+  - Vigenère Cipher
 
-  - playfair
+  - Playfair
 
-- polyalfabetische sub
+- Polyalfabetische Sub
 
-  - gronfeldscode
+  - Gronfeldscode
 
-  - vigenere
+    - Vigenere
 
-###### permutatie
+  ###### Permutatie
 
-- enkel kolom transpositie
+  - Enkel Kolom Transpositie
 
-- dubbel kolom transpositie
+  - Dubbel Kolom Transpositie
 
-###### combinatie sub en perm
+  ###### Combinatie Sub en Perm
 
-- ADFGVX product cipher
+  - ADFGVX Product Cipher
 
-##### enigma
+  ##### Enigma
 
-###### werking
+  ###### Werking
 
-###### polen hun werk
+  ###### Polen Hun Werk
 
-###### turing bomb
+  ###### Turing Bomb
 
-##### DLP
+  ##### DLP
 
-###### brute force
+  ###### Brute Force
 
-###### baby steps giant steps
+  ###### Baby Steps Giant Steps
 
-###### pollard
+  ###### Pollard
 
-###### index calculus
+  ###### Index Calculus
 
-###### pohlig hellman
+  ###### Pohlig Hellman
 
-###### el gamal
+  ###### El Gamal
 
-###### diffie hellman
+  ###### Diffie Hellman
 
-##### RSA
+  ##### RSA
 
-###### werking
+  ###### Werking
 
-##### factorisatie
+  ##### Factorisatie
 
-###### pseudoe priem
+  ###### Pseudoe Priem
 
-###### fermat factorisatie
+  ###### Fermat Factorisatie
 
-###### zeefmethode
+  ###### Zeefmethode
 
-###### kwadratische zeef
+  ###### Kwadratische Zeef
 
-##### Rijndael
+  ##### Rijndael
 
-###### vermenigvuldiging in F_256
+  ###### Vermenigvuldiging in F_256
 
-###### beschrijving rijdael
+  ###### Beschrijving Rijndael
 
-##### elliptische kromme
+##### Elliptische Kromme
 
-###### rekenen op ellipitsche krommen
+###### Rekenen op Elliptische Krommen
 
-###### ellipische DLP
+###### Elliptische DLP
 
-###### ELLIPTIC CuRVE DIFFIE HELLMAN
+###### Elliptic Curve Diffie Hellman
 
-###### elliptische baby steps gaint steps
+###### Elliptische Baby Steps Giant Steps
 
-###### elliptische pollard
+###### Elliptische Pollard
 
 ### Dynamical Systems
 
@@ -474,7 +474,7 @@ markmap:
 
 ### Numerical Optimization
 
-### Statitical Data Science
+### Statistical Data Science
 
 ## SE2
 
@@ -520,173 +520,171 @@ markmap:
 
 ##### LIL Hartman and Wintner
 
-###### upper bound
+###### Upper Bound
 
-###### lower bound
+###### Lower Bound
 
-##### converse LIL strassen
+##### Converse LIL Strassen
 
-#### Weak convergence and characteristic functions
+#### Weak Convergence and Characteristic Functions
 
-##### weak convergence
+##### Weak Convergence
 
-###### kapstok
+###### Kapstok
 
-###### Continuous mapping theorem
+###### Continuous Mapping Theorem
 
 ###### Slutzky
 
-##### Characteristic functions
+##### Characteristic Functions
 
-###### character property
+###### Character Property
 
-###### properties ->properties
+###### Properties
 
-###### convergence theorem
+###### Convergence Theorem
 
-##### cramer wold
+##### Cramer-Wold
 
-##### Infinitely divisible distributions
+##### Infinitely Divisible Distributions
 
-###### vague convergence
+###### Vague Convergence
 
-###### helly’s theorem)
+###### Helly’s Theorem
 
-###### representation with 2nd moment
+###### Representation with 2nd Moment
 
-###### convergence theorem
+###### Convergence Theorem
 
-- lindeberg
+- Lindeberg
 
-- Lyapounov
+- Lyapunov
 
-#### Brownian motion and Donsker’s invariance principle
+#### Brownian Motion and Donsker’s Invariance Principle
 
-##### brownian motion construction
+##### Brownian Motion Construction
 
-##### brownian bridge construction
+##### Brownian Bridge Construction
 
-##### donskers invariance principle
+##### Donsker’s Invariance Principle
 
-##### wiener measure
+##### Wiener Measure
 
-###### donskers theorem
+###### Donsker’s Theorem
 
-###### functional LIL
+###### Functional LIL
 
 ### Harmonische en Wavelet Analyse
 
 #### Fouriertransformatie
 
-##### uniform continu
+##### Uniform Continu
 
-##### inversieformule
+##### Inversieformule
 
-###### convolutie
+###### Convolutie
 
-###### gaussische functie
+###### Gaussische Functie
 
-##### L2 def
+##### L2 Def
 
-##### switch stelling
+##### Switch Stelling
 
-##### plancherel, parseval
+##### Plancherel, Parseval
 
-##### gevensterde
+##### Gevensterde
 
 ###### Plancherel
 
-###### inversie formule
+###### Inversie Formule
 
 #### Sampling Theorie
 
-##### B-bandgelimiteerde functies
+##### B-Bandgelimiteerde Functies
 
-##### Nyqist-Shannon
+##### Nyquist-Shannon
 
-##### Poisson sommatie formule
+##### Poisson Sommatie Formule
 
 #### Frames
 
-##### nasty norm operator
+##### Nasty Norm Operator
 
-##### bessel rij
+##### Bessel Rij
 
-##### frame
+##### Frame
 
-###### frame algoritme
+###### Frame Algoritme
 
-###### gabor frame
+###### Gabor Frame
 
 - G(t)
 
-- characterisatie
+- Characterisatie
 
-- constructie tight 6.14
+- Constructie Tight 6.14
 
-##### frame operator
+##### Frame Operator
 
-###### zelf toegevoegd
+###### Zelf Toegevoegd
 
 #### Wavelets
 
-##### Continue wavelet transformatie
+##### Continue Wavelet Transformatie
 
-###### Equivalentie admissibility
+###### Equivalentie Admissibility
 
-###### Continue wavelet transformatie
+###### Continue Wavelet Transformatie
 
-###### Plancherel formule
+###### Plancherel Formule
 
 ###### Inversieformule
 
-##### Discrete wavelet transformatie
+##### Discrete Wavelet Transformatie
 
-###### Frame stelling translatie en dilatatie
+###### Frame Stelling Translatie en Dilatatie
 
-###### Tight frame stelling compacte Fourier drager
+###### Tight Frame Stelling Compacte Fourier Drager
 
 #### MRA
 
-##### orthogonale decompositie
+##### Orthogonale Decompositie
 
-##### schalingsvergelijking
+##### Schalingsvergelijking
 
-###### som hk
+###### Som hk
 
-###### niet nul hk
+###### Niet Nul hk
 
-##### separatie voorwaarde
+##### Separatie Voorwaarde
 
-##### volledigheid voorwaarde
+##### Volledigheid Voorwaarde
 
-##### fourier domein
+##### Fourier Domein
 
-###### ON systeem van translaties
+###### ON Systeem van Translaties
 
-###### Fourier versie van de schalingsvergelijking
+###### Fourier Versie van de Schalingsvergelijking
 
-###### Karakterisering van W0 via H and phi
+###### Karakterisering van W0 via H en Phi
 
 ### Introduction into Performance Modelling
 
-#### Typical markov chain course
+#### Typical Markov Chain Course
 
 ### Mathematical Foundations of Reinforcement Learning
 
 #### Finite Horizon Problem
 
-##### backward induction
+##### Backward Induction
 
-#### Total Expected Discounted Rewards over an Infinite
+#### Total Expected Discounted Rewards over an Infinite Horizon
 
-Horizon
+##### Optimality Equation
 
-##### optimality equation
+##### Value Iteration Algorithm
 
-##### value iteration algorithm
-
-###### suboptimality Testing
+###### Suboptimality Testing
 
 ###### Pre-Gauss-Seidel
 
@@ -706,41 +704,41 @@ Horizon
 
 ##### Blackwell Optimality
 
-##### laurent series (dropped)
+##### Laurent Series (dropped)
 
-##### optimality equation (understand only)
+##### Optimality Equation (understand only)
 
 #### Partially Known MDPs
 
-##### Distance measures
+##### Distance Measures
 
-###### ratio
+###### Ratio
 
-###### total variance
+###### Total Variance
 
-##### robustness theorem
+##### Robustness Theorem
 
-###### need to be able to reconstruct the proof
+###### Need to be Able to Reconstruct the Proof
 
-###### generelasie to average case
+###### Generalization to Average Case
 
-##### Model-based limit-average optimization
+##### Model-Based Limit-Average Optimization
 
-###### assumptions
+###### Assumptions
 
-- min p
+- Min P
 
-- communications
+- Communications
 
-###### Tail bounds for MDP exploration
+###### Tail Bounds for MDP Exploration
 
-###### tractol stuff
+###### Tractable Stuff
 
-##### Q learning
+##### Q Learning
 
-###### action-replay process
+###### Action-Replay Process
 
-###### algorithm
+###### Algorithm
 
 ### Multigrid Methods
 
@@ -748,353 +746,350 @@ Horizon
 
 ### Levy Processes
 
-#### Prohorov’s theorem
+#### Prohorov’s Theorem
 
-##### recall
+##### Recall
 
-###### kapstok stelling
+###### Kapstok Stelling
 
-###### Continuous mapping theorem
+###### Continuous Mapping Theorem
 
 ###### Slutzky
 
-###### Characteristic functions
+###### Characteristic Functions
 
-- karaterisatie stelling
+- Karakterisatie Stelling
 
-- convergence and weak convergence
+- Convergence and Weak Convergence
 
 ###### Cramer-Wold
 
-###### def tight
+###### Def Tight
 
-##### sequential compactness => tight
+##### Sequential Compactness => Tight
 
-###### polish space
+###### Polish Space
 
-- open, gesloten rep maat
+- Open, Gesloten Rep Maat
 
-- compacte rep maat
+- Compacte Rep Maat
 
-##### sequential compactness <= tight
+##### Sequential Compactness <= Tight
 
-###### ondermaat en boven maat stuff
+###### Ondermaat en Bovenmaat Stuff
 
-##### new characteristic functions
+##### New Characteristic Functions
 
-###### weak convergence => uniform convergence on compact sets
+###### Weak Convergence => Uniform Convergence on Compact Sets
 
-###### convergence to continous in 0 => weak convergence
+###### Convergence to Continuous in 0 => Weak Convergence
 
-#### Infinitely divisible distributions
+#### Infinitely Divisible Distributions
 
-##### basic properties
+##### Basic Properties
 
-###### non zero phi
+###### Non Zero Phi
 
-###### form of phi
+###### Form of Phi
 
-###### preservation under weak convergence
+###### Preservation under Weak Convergence
 
-##### compound poisson
+##### Compound Poisson
 
-##### Levy-Khintchine formula/representation
+##### Levy-Khintchine Formula/Representation
 
-###### uniqueness
+###### Uniqueness
 
-###### 2.3 weak convergence and convergence of generating triple
+###### 2.3 Weak Convergence and Convergence of Generating Triple
 
-#### Levy processes: existence
+#### Levy Processes: Existence
 
-##### def levy process
+##### Def Levy Process
 
-##### def compound poisson process
+##### Def Compound Poisson Process
 
-##### Poisson random measures
+##### Poisson Random Measures
 
-###### construction example
+###### Construction Example
 
-###### poisson measure integration
+###### Poisson Measure Integration
 
-##### D([0, t], Rd) Skorokhod space (cadlag)
+##### D([0, t], Rd) Skorokhod Space (Cadlag)
 
-###### ball sigma algebra
+###### Ball Sigma Algebra
 
-###### max sum epsilon <=
+###### Max Sum Epsilon <=
 
-###### Kolmogorov (just rvs)
+###### Kolmogorov (Just RVs)
 
-- levy processes
+- Levy Processes
 
-##### The Levy-Ito decomposition
+##### The Levy-Ito Decomposition
 
-###### properties poisson random measures
+###### Properties Poisson Random Measures
 
 ###### A = 0 and γ = 0
 
-- construction random measures
+- Construction Random Measures
 
-- convergence of infty activity part
+- Convergence of Infty Activity Part
 
-##### atomic sets
+##### Atomic Sets
 
 ### Nonsmooth Optimization
 
-#### recall smooth optimization
+#### Recall Smooth Optimization
 
-##### def (isolated) local/global optimizer
+##### Def (Isolated) Local/Global Optimizer
 
-##### bounded sublevel criterion
+##### Bounded Sublevel Criterion
 
-###### coercive functions
+###### Coercive Functions
 
-##### Descent lemma inequalities
+##### Descent Lemma Inequalities
 
-#### recall convexity
+#### Recall Convexity
 
-##### defs
+##### Defs
 
-###### convex sets
+###### Convex Sets
 
-###### convex combination
+###### Convex Combination
 
-###### affine mapping
+###### Affine Mapping
 
-###### convex hull
+###### Convex Hull
 
-###### cone
+###### Cone
 
-###### relative interior
+###### Relative Interior
 
-###### convex functions
+###### Convex Functions
 
-###### set valued mapping
+###### Set Valued Mapping
 
-###### marginal function
+###### Marginal Function
 
-###### Infimal convolution
+###### Infimal Convolution
 
-##### properties
+##### Properties
 
-###### preservation
+###### Preservation
 
-- sum
+- Sum
 
-- cartesian product
+- Cartesian Product
 
-- intersection
+- Intersection
 
-###### jensens inequality
+###### Jensen's Inequality
 
-###### composition
+###### Composition
 
-###### supremum
+###### Supremum
 
-##### quasi convex
+##### Quasi Convex
 
-###### strong/strictly
+###### Strong/Strictly
 
-###### sublevel def
+###### Sublevel Definition
 
-###### global optimality
+###### Global Optimality
 
-##### pseudo convex
+##### Pseudo Convex
 
-###### stronger then quasi convex
+###### Stronger than Quasi Convex
 
-##### weak convex/invex
+##### Weak Convex/Invex
 
-#### subdifferential
+#### Subdifferential
 
-##### convex subdifferential
+##### Convex Subdifferential
 
-###### defs
+###### Definitions
 
-- distance function/orthogonal projection
+- Distance Function/Orthogonal Projection
 
-- convex seperation
+- Convex Separation
 
-- extermal
+- Extremal
 
-- convex normal cone
+- Convex Normal Cone
 
-- subgradient
+- Subgradient
 
-- Frechet differentiability
+- Fréchet Differentiability
 
-###### normal cone calculus
+###### Normal Cone Calculus
 
-###### Extermal system characterization
+###### Extremal System Characterization
 
-###### Characterization of locally Lipschitz convex functions
+###### Characterization of Locally Lipschitz Convex Functions
 
-###### calculus
+###### Calculus
 
-- Moreau-Rockfellar theorem
+- Moreau-Rockafellar Theorem
 
-- max rule
+- Max Rule
 
-##### clarke subdifferential
+##### Clarke Subdifferential
 
-###### def
+###### Definition
 
-- upper/lower dini derivative
+- Upper/Lower Dini Derivative
 
-- clarke directional derivative
+- Clarke Directional Derivative
 
-- clarke subdifferential
+- Clarke Subdifferential
 
-- Subdifferentially regular
+- Subdifferentially Regular
 
-###### ll => bounded by L, convex
+###### Locally Lipschitz => Bounded by L, Convex
 
-###### Characterization of Clarke subdifferential
+###### Characterization of Clarke Subdifferential
 
-- sup
+- Supremum
 
-- ll and derivative
+- Locally Lipschitz and Derivative
 
 ###### Rademacher’s Theorem
 
-###### Subdifferentially regular functions
+###### Subdifferentially Regular Functions
 
-- some sufficient conditions
+- Some Sufficient Conditions
 
-###### calculus
+###### Calculus
 
-##### limiting subdifferential
+##### Limiting Subdifferential
 
-###### def regular subdifferential
+###### Definition Regular Subdifferential
 
-###### def limiting subdifferential
+###### Definition Limiting Subdifferential
 
-###### CP limiting cone def
+###### Clarke-Phelps Limiting Cone Definition
 
-###### def horizon subdifferential
+###### Definition Horizon Subdifferential
 
-###### calculus
+###### Calculus
 
-###### lower regularity
+###### Lower Regularity
 
-###### normally regular
+###### Normally Regular
 
-###### epigraphicaly regular
+###### Epigraphically Regular
 
-##### general normal cone
+##### General Normal Cone
 
-##### proximal normal cones
+##### Proximal Normal Cones
 
-#### nonconvex optimality conditions
+#### Nonconvex Optimality Conditions
 
-##### lower semi continous functions
+##### Lower Semi-Continuous Functions
 
-###### epigraph def
+###### Epigraph Definition
 
-###### Extension of Weierstrass theorem
+###### Extension of Weierstrass Theorem
 
-##### Necessary and sufficient optimality conditions for constrained optimization
+##### Necessary and Sufficient Optimality Conditions for Constrained Optimization
 
-##### Optimality conditions for inequality constrained problems
+##### Optimality Conditions for Inequality Constrained Problems
 
-##### KL property
+##### KL Property
 
 ###### ???
 
-##### Abstract convergence theorem
+##### Abstract Convergence Theorem
 
-#### subgradient method
+#### Subgradient Method
 
-##### def
+##### Definition
 
-###### fejet monotonicty
+###### Fejér Monotonicity
 
-###### methods
+###### Methods
 
-##### stepsizes
+##### Stepsizes
 
-###### Constant step-size
+###### Constant Step-Size
 
-###### Constant step-length
+###### Constant Step-Length
 
-###### Square-summable but nonsummable step-size
+###### Square-Summable but Nonsummable Step-Size
 
-###### Nonsummable diminishing step-size
+###### Nonsummable Diminishing Step-Size
 
-###### Nonsummable diminishing step-length
+###### Nonsummable Diminishing Step-Length
 
-###### Polyak’s step-size
+###### Polyak’s Step-Size
 
-###### Modified Polyak’s step-size
+###### Modified Polyak’s Step-Size
 
-##### Convergence analysis
+##### Convergence Analysis
 
-###### convex
+###### Convex
 
-- Subgradient iteration inequality
+- Subgradient Iteration Inequality
 
-- Bound on function value decay for subgradient meth
+- Bound on Function Value Decay for Subgradient Method
 
-###### weak convex
+###### Weak Convex
 
-- Subgradient iteration inequality
+- Subgradient Iteration Inequality
 
-- still need to reread the last part
+- Still Need to Reread the Last Part
 
-###### projected convex
+###### Projected Convex
 
-- Constrained subgradient iteration inequality
+- Constrained Subgradient Iteration Inequality
 
 #### Proximal and Proximal Gradient
 
-##### defs
+##### Definitions
 
-###### Proximal-point operator
+###### Proximal-Point Operator
 
-###### proximal point method
+###### Proximal Point Method
 
-###### inexact proximal point method
+###### Inexact Proximal Point Method
 
-###### proximal gradient method
+###### Proximal Gradient Method
 
-##### analysis
+##### Analysis
 
-###### Inexact Proximal Point method
+###### Inexact Proximal Point Method
 
-###### proximal gradient
+###### Proximal Gradient
 
-- descent lemma
+- Descent Lemma
 
-- sufficient decrease lemma
+- Sufficient Decrease Lemma
 
-#### Moreau Envelope,
+#### Moreau Envelope, Forward-Backward Envelope for Composite Minimization
 
-Forward-Backward Envelope
-for Composite Minimization
+##### Definition
 
-##### def
+###### Prox Boundedness
 
-###### prox boundeness
+###### Forward-Backward Envelope
 
-###### Forward-backward envelope
-
-###### Prox-regularity of critical points
+###### Prox-Regularity of Critical Points
 
 ### Causal ML
 
 ### Actuarial Models
 
-#### 0_introduction
+#### 0_Introduction
 
-#### 1_expected_utility_theory
+#### 1_Expected_Utility_Theory
 
-#### 2_comonotonicity
+#### 2_Comonotonicity
 
-#### 3_copulas
+#### 3_Copulas
 
-#### 5_risk_measures
+#### 5_Risk_Measures
 
-#### 6_subadditivity_and_risk_aggregation
+#### 6_Subadditivity_and_Risk_Aggregation
 
-#### 7_dual_theory
+#### 7_Dual_Theory
 
 ### Financial Mathematics
