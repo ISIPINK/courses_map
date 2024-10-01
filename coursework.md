@@ -466,27 +466,121 @@ markmap:
 
 ## SE1
 
-### Advanced Programming
+### \_\_/20 Advanced Programming (dropped out)
 
-### Finite Difference Methods
+- Basis C++ Faciliteiten
 
-### Path Integrals for Option Pricing
+  - Algemene Begrippen
+  - Karakterisering van C++
+  - Generisch Programmeren
 
-### Numerical Optimization
+- Objectgeoriënteerd Programmeren in C++
 
-### Statistical Data Science
+  - Klassenontwerp
+  - Operator Overloading
+  - Aggregatie en Compositie
+  - Inheritance
+  - Polymorfisme
+
+- Generisch Programmeren in C++
+
+  - Functie Overloading
+  - Functie Templates
+  - Klasse Templates
+
+- Multithreaded Programmeren
+
+  - Veilig Programmeren in een Multi-Threaded Omgeving
+  - Gebruik van Lambda Functies
+
+### 13/20 Finite Difference Methods
+
+- Convectie-diffusievergelijkingen
+- Black-Scholes
+- Discretisatiemethoden
+- Stabiliteit
+- Consistentie
+- Convergentie
+
+### 16/20 Path Integrals for Option Pricing
+
+### 18/20 Numerical Optimization
+
+### 11/20 Statistical Data Science
+
+- Exploratory Data Analysis
+- Covariance Estimation
+- Detecting Outliers
+- Dimension Reduction Methods
+  - Principal Component Analysis
+  - Outliers
+- Cluster Analysis
+  - Hierarchical and Partitioning
+- ggplot2
+- Linear Methods for Regression
+  - Multivariate Linear Regression
+  - Interactions
+  - Variable Selection
+  - Multicollinearity
+  - Outliers and Leverage Points
+- Methods for Classification
+  - Evaluation Measures
+  - Logistic Regression
+  - Modern Classification Techniques
 
 ## SE2
 
-### Master Thesis
+### 15/20 Master Thesis
 
-### Monte Carlo
+#### [Zotero Map](https://huggingface.co/spaces/ISIPINK/zotmap)
+
+#### [Master Thesis Repository](https://github.com/ISIPINK/masterthesis_MC_linear_ODEs)
+
+### 17/20 Monte Carlo Methods and FX Der
+
+- Monte Carlo Simulation Techniques
+
+  - Values and Greeks of Financial Products
+  - Random Number Generation
+  - Sampling from Various Distributions
+  - Confidence Intervals
+  - Pathwise Differentiation
+  - Likelihood Ratio Methods
+  - Finite Differences
+  - Brownian Bridges
+  - Variance Reduction Techniques
+  - Efficient Simulation
+
+- Financial Instruments
+
+  - Forwards
+  - Vanilla Options
+  - Barrier Options/Touch Products
+  - Asian Options
+  - Structured Forwards
+  - Target Forwards
+  - Variance and Volatility Swaps
+
+- Models
+
+  - Black-Scholes
+  - Jump-Diffusion Models (Merton, Kou)
+  - Stochastic Volatility (Heston)
+
+- FX Derivatives Markets
+  - Volatility Smile Surface
+  - Interpolation and Extrapolation Techniques
+  - Market Conventions
+    - At-the-Money
+    - Risk Reversals
+    - Butterflies
+    - Strangles
 
 # Ma2
 
 ## SE1
 
-### Advanced Probability
+### 13/20 Advanced Probability
 
 #### Martingales
 
@@ -574,7 +668,7 @@ markmap:
 
 ###### Functional LIL
 
-### Harmonische en Wavelet Analyse
+### 14/20 Harmonische en Wavelet Analyse
 
 #### Fouriertransformatie
 
@@ -668,11 +762,11 @@ markmap:
 
 ###### Karakterisering van W0 via H en Phi
 
-### Introduction into Performance Modelling
+### 10/20 Introduction into Performance Modelling
 
 #### Typical Markov Chain Course
 
-### Mathematical Foundations of Reinforcement Learning
+### 18/20 Mathematical Foundations of Reinforcement Learning
 
 #### Finite Horizon Problem
 
@@ -740,11 +834,17 @@ markmap:
 
 ###### Algorithm
 
-### Multigrid Methods
+### 12/20 Multigrid Methods
+
+- Multirooster Technieken
+- Jacobi en Gauss-Seidel Iteraties
+- Interpolatie en Restrictie Operatoren
+- Multirooster Analyse
+- Algebraische Multigrid
 
 ## SE2
 
-### Levy Processes
+### 12/20 Levy Processes
 
 #### Prohorov’s Theorem
 
@@ -836,7 +936,7 @@ markmap:
 
 ##### Atomic Sets
 
-### Nonsmooth Optimization
+### 16/20 Nonsmooth Optimization
 
 #### Recall Smooth Optimization
 
@@ -1074,9 +1174,11 @@ markmap:
 
 ###### Prox-Regularity of Critical Points
 
-### Causal ML
+### 15/20 Causal ML
 
-### Actuarial Models
+#### Followed the structure of [Causal Inference Course](https://www.bradyneal.com/causal-inference-course)
+
+### 17/20 Actuarial Models
 
 #### 0_Introduction
 
@@ -1092,4 +1194,6 @@ markmap:
 
 #### 7_Dual_Theory
 
-### Financial Mathematics
+### 16/20 Financial Mathematics
+
+#### [Assignment Financial Mathematics 2024](https://github.com/ISIPINK/Assignment_Financial_Mathematics_2024)
